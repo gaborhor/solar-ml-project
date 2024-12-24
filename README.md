@@ -1,4 +1,4 @@
-# Solar ML Modeling and Feature, Error Analaysis
+# Solar ML Modeling and Feature, Error Analysis
 
 ## Overview:
 
