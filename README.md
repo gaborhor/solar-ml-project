@@ -72,8 +72,13 @@ These features were engineered as "distance transformations" of the Time, allowi
 ## __Results:__
 
 * Identified sub-optimal handling of NaN values by HistGradientBoosting Regressor, resulting in usage of XGBRegressor.
+  ![image](https://github.com/user-attachments/assets/307a4aa7-4f1d-4b7c-8712-2d130d1088c2)
+
 * Identified 'Temperature' and 'Irradiation' as important regulating features in modeling.
-* Created models to both handle and ignore NaN values in varying sets of features, resulting in Mean Absolute Error values of 14.3 kW and below for predictions on a scale of 0 to 468 kW.
+  ![image](https://github.com/user-attachments/assets/4586f308-f492-4d0f-bca2-7aedcfa69235)
+
+* **Created models to both handle and ignore NaN values in varying sets of features, resulting in Mean Absolute Error values of 14.3 kW and below for predictions on a scale of 0 to 468 kW.**
+  
 
 ## Future Opportunities:
 
