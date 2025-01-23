@@ -78,7 +78,7 @@ These features were engineered as "distance transformations" of the Time, allowi
   ![image](https://github.com/user-attachments/assets/4586f308-f492-4d0f-bca2-7aedcfa69235)
 
 * **Created models to both handle and ignore NaN values in varying sets of features, resulting in Mean Absolute Error values of 14.3 kW and below for predictions on a scale of 0 to 468 kW.**
-  
+  ![image](https://github.com/user-attachments/assets/b0157a1a-b653-410d-afb4-a38583bb5175)
 
 ## Future Opportunities:
 
