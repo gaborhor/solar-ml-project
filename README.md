@@ -24,6 +24,8 @@ Time or Static Features:
   * ['capacity_clipped'] – maximum solar farm power capacity
   * ['time_hourly'] – hourly timestamp
 
+![Azimuth-Altitude_schematic svg](https://github.com/user-attachments/assets/9dc98c0f-cd98-49cb-a64c-849e8164f907)
+
 Solar Features:
   * ['S_d'] – direct beam solar radiation intensity. Typically measured in Watt/Steradian. NOTE: "Direct solar radiation" is shortwave radiation able to penetrate through the atmosphere without having been affected by constituents of the atmosphere in any way.
   * ['airmass'] - quantifies the reduction in the power of light as it passes through the atmosphere and is absorbed by air and dust
