@@ -49,6 +49,8 @@ Weather Features:
   * ['radNetS_lw_mean'] - Surface net long-wave (Earthly) radiation. NOTE: Heat energy absorbed by the Earth's surface, re-emitted toward the atmosphere as radiation, and reflected back down to the surface.
   * ['radNetS_sw_mean'] - Surface net short-wave (solar) radiation. NOTE: Solar radiation (direct or diffuse) that reaches the Earth's surface.
 
+![image](https://github.com/user-attachments/assets/c538c572-f86e-4d4d-b932-c2b03c5423bd)
+
 __Engineered Features:__
 These features were engineered as "distance transformations" of the Time, allowing models to better understand the different between changes in hour, month, day-of-week, and day-of-year.
   * ['hour_sin']
